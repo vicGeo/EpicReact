@@ -8,3 +8,5 @@
     />
   </a>
 </div>
+
+https://github.com/kentcdodds/advanced-react-patterns/
